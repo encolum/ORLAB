@@ -8,7 +8,7 @@ import pandas as pd
 
 
 files_name = []
-folder_path = 'D:\CPLEX-ORLAB\instances'
+folder_path = 'D:\CPLEX-ORLAB\Instance TSP'
 extension = ".sop"
 files = os.listdir(folder_path)
 for file_name in files:
