@@ -1,2 +1,2 @@
-# CPLEX_ORLAB
-CPLEX ORLAB Optimization Project
+# DOCPLEX_ORLAB
+DOPLEX ORLAB Optimization Project
