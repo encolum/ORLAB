@@ -1,2 +1,2 @@
 # DOCPLEX_ORLAB
-DOPLEX ORLAB Optimization Project
+This repository contains code of Metaheuristics algorithm, which i learned in ORLab
